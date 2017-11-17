@@ -1,0 +1,6 @@
+baseUrl: app.com
+port: 8740
+mongo: mongodb://localhost/app
+
+secrets:
+  session: app_secret_token

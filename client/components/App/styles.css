@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+
+.navigation {
+  padding: 20px 50px;
+  margin: 0 -15px;
+  display: flex;
+  background: #6da5ff;
+}
+
+.link {
+  margin: 0 15px;
+  color: #FFF;
+  text-decoration: none;
+}

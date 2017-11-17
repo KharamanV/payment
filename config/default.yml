@@ -1,0 +1,6 @@
+baseUrl: localhost:3000
+port: 8080
+mongo: mongodb://localhost/app
+
+secrets:
+  jwt: app_secret_token
